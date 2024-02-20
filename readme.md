@@ -1,3 +1,5 @@
+# NoteMaster API
+NoteMaster API is a secure and efficient note-taking API. It allows users to create, read, update, and delete personal notes. The API uses JWT for user authentication and provides a robust set of endpoints for managing user accounts and notes.
 
 ## Getting Started
 
